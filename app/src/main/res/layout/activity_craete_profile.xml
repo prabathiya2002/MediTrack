@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/create_prof"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:clipToOutline="true"
+        tools:layout_editor_absoluteX="-42dp"
+        tools:layout_editor_absoluteY="27dp"
+        tools:targetApi="s">
+
+        <View
+            android:id="@+id/images_2"
+            android:layout_width="115dp"
+            android:layout_height="115dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="139dp"
+            android:layout_marginTop="45dp"
+            android:background="@drawable/images_2" />
+
+        <TextView
+            android:id="@+id/enter_your_"
+            android:layout_width="308dp"
+            android:layout_height="62dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="189dp"
+            android:gravity="top"
+            android:text="@string/enter_your_"
+            android:textAppearance="@style/enter_your_"
+            android:textColor="#F3EFEF"
+            android:textSize="24sp" />
+
+        <View
+            android:id="@+id/rectangle_3"
+            android:layout_width="360dp"
+            android:layout_height="45dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="239dp"
+            android:background="#A9A3A3" />
+
+        <View
+            android:id="@+id/line_4"
+            android:layout_width="360dp"
+            android:layout_height="2dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="358dp"
+            android:background="@drawable/line_3" />
+
+        <TextView
+            android:id="@+id/add_new_med"
+            android:layout_width="258dp"
+            android:layout_height="36dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="370dp"
+            android:gravity="top"
+            android:text="@string/add_new_med"
+            android:textAppearance="@style/add_new_med"
+            android:textColor="#FBFBFB"
+            android:textSize="24sp" />
+
+        <View
+            android:id="@+id/line_5"
+            android:layout_width="360dp"
+            android:layout_height="2dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="417dp"
+            android:background="@drawable/line_3" />
+
+        <TextView
+            android:id="@+id/name_of_the"
+            android:layout_width="192dp"
+            android:layout_height="38dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="22dp"
+            android:layout_marginTop="486dp"
+            android:gravity="top"
+            android:text="@string/name_of_the"
+            android:textAppearance="@style/name_of_the"
+            android:textColor="#FDFCFC"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="63dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="288dp"
+            android:layout_marginTop="489dp"
+            android:gravity="top"
+            android:text="@string/time"
+            android:textAppearance="@style/time"
+            android:textColor="#F8F4F4"
+            android:textSize="24sp" />
+
+        <View
+            android:id="@+id/rectangle_4"
+            android:layout_width="197dp"
+            android:layout_height="45dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="550dp"
+            android:background="#A9A3A3" />
+
+        <View
+            android:id="@+id/rectangle_5"
+            android:layout_width="197dp"
+            android:layout_height="45dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="17dp"
+            android:layout_marginTop="609dp"
+            android:background="#A9A3A3" />
+
+        <TextView
+            android:id="@+id/medicine_no"
+            android:layout_width="146dp"
+            android:layout_height="30dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="557dp"
+            android:gravity="top"
+            android:text="@string/medicine_no"
+            android:textAppearance="@style/medicine_no" />
+
+        <TextView
+            android:id="@+id/medicine_no1"
+            android:layout_width="146dp"
+            android:layout_height="30dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="31dp"
+            android:layout_marginTop="616dp"
+            android:gravity="top"
+            android:text="@string/medicine_no"
+            android:textAppearance="@style/medicine_no" />
+
+        <TextView
+            android:id="@+id/am"
+            android:layout_width="100dp"
+            android:layout_height="34dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="262dp"
+            android:layout_marginTop="553dp"
+            android:gravity="top"
+            android:text="@string/am"
+            android:textAppearance="@style/am" />
+
+        <TextView
+            android:id="@+id/pm"
+            android:layout_width="100dp"
+            android:layout_height="34dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="262dp"
+            android:layout_marginTop="609dp"
+            android:gravity="top"
+            android:text="@string/pm"
+            android:textAppearance="@style/pm"
+            android:textColor="#FDFCFC"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="44dp"
+            android:layout_height="49dp"
+            android:rotationY="180"
+            app:srcCompat="@android:drawable/ic_media_play"
+            android:contentDescription="@string/back" />
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="51dp"
+            android:layout_height="47dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="13dp"
+            android:layout_marginBottom="839dp"
+            app:srcCompat="@android:drawable/ic_menu_save"
+            android:contentDescription="@string/save" />
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="42dp"
+            android:layout_marginBottom="474dp"
+            android:backgroundTint="#00FFFFFF"
+            app:srcCompat="@android:drawable/ic_input_add"
+            android:contentDescription="@string/add_med" />
+
+    </RelativeLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

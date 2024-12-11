@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="profiles">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="create_new_">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="profile_no_">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="profile_no_2">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="profile_no_3">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="vibration">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="notificatio">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="some_id">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="enter_your_">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="add_new_med">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="name_of_the">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="time">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="medicine_no">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="am">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="pm">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="new_medicat">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">#A9A3A3</item>
+    </style>
+    <style name="loading_">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="welcome_to_">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="continue_">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="your_person">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="no_instruct">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="take_before">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="take_after_">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="take_during">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="take_with_w">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="custom_inst">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="enter">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#065D29</item>
+    </style>
+    <style name="set">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="set1">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+
+
+</resources>

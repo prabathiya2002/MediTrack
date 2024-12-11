@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/hd_mobile_w"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/hd_mobile_w"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/welcome_to_"
+        android:layout_width="244dp"
+        android:layout_height="93dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:gravity="top"
+        android:text="@string/welcome_to_"
+        android:textAppearance="@style/welcome_to_"
+        app:layout_constraintBottom_toTopOf="@+id/rectangle_1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.084" />
+
+    <View
+        android:id="@+id/rectangle_1"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/rectangle_1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/continue_"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/continue_"
+        android:layout_width="195dp"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:gravity="top"
+        android:text="@string/continue_"
+        android:textAppearance="@style/continue_"
+        app:layout_constraintBottom_toBottomOf="@+id/hd_mobile_w"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/hd_mobile_w"
+        app:layout_constraintVertical_bias="0.889" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

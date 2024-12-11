@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Lab Exam project</string>
+
+    <string name="profiles">
+Profiles
+</string>
+
+    <string name="create_new_">
+Create new Profile +
+</string>
+    <string name="profile_no_">
+Profile No.1
+</string>
+    <string name="profile_no_2">
+Profile No.2
+</string>
+    <string name="profile_no_3">
+Profile No.3
+</string>
+    <string name="vibration">
+Vibration
+</string>
+    <string name="notificatio">
+Notification Sound (on/off)
+</string>
+    <string name="some_id">
+back
+</string>
+    <string name="enter_your_">
+Enter Your Name (profile) :
+</string>
+    <string name="add_new_med">
+Add new Medicine +
+</string>
+    <string name="name_of_the">
+Name of the Med.
+</string>
+    <string name="time">
+Time
+</string>
+    <string name="medicine_no">
+Medicine No.1
+</string>
+    <string name="am">
+7:00 am
+</string>
+    <string name="pm">
+2:00 pm
+</string>
+    <string name="new_medicat">
+New Medication
+</string>
+    <string name="loading_">
+LOADING........
+</string>
+    <string name="welcome_to_">
+Welcome to \n MediTrack !
+</string>
+    <string name="continue_">
+Continue >>
+</string>
+    <string name="your_person">
+Your personal medication assistant! Stay on top of your health with ease. Set reminders for your medications, track your dosage history, and never miss a dose again.\nLet Meditrack help you manage your medications and stay healthy!
+</string>
+    <string name="no_instruct">
+No instructions
+</string>
+    <string name="take_before">
+Take before meal
+</string>
+    <string name="take_after_">
+Take after meal
+</string>
+    <string name="take_during">
+Take during meal
+</string>
+    <string name="take_with_w">
+Take with water
+</string>
+    <string name="custom_inst">
+Custom instruction
+</string>
+    <string name="enter">
+Enter
+</string>
+    <string name="set1">
+Set
+</string>
+    <string name="drops">Drops</string>
+    <string name="syrup">Syrup</string>
+    <string name="capsule">Capsule</string>
+    <string name="tablet">Tablet</string>
+    <string name="set">Set</string>
+    <string name="dosage">Dosage :</string>
+    <string name="dose_unit">Dose Unit</string>
+    <string name="add_med">Add med</string>
+    <string name="save">save</string>
+    <string name="back">back</string>
+    <string name="medication_name">Medication Name :</string>
+    <string name="save1">Save</string>
+    <string name="schedule">Schedule</string>
+    <string name="dose_unit1">Dose Unit</string>
+    <string name="instruction">Instruction</string>
+    <string name="sche">sche</string>
+    <string name="dos">dos</string>
+    <string name="new_medication">New Medication</string>
+    <string name="name">Name</string>
+    <string name="ins">ins</string>
+    <string name="add_p">add p</string>
+    <string name="cancle1">cancle1</string>
+    <string name="switch1">Switch1</string>
+    <string name="switch2">Switch2</string>
+    <string name="set2">Set</string>
+    <string name="add_more_time">Add more Time</string>
+    <string name="_6pm">6pm</string>
+    <string name="_12pm">12pm</string>
+    <string name="_6am">6am</string>
+    <string name="time_3">Time 3</string>
+    <string name="time_2">Time 2</string>
+    <string name="time_1">Time 1</string>
+    <string name="set_specific_date">Set specific date</string>
+    <string name="schedule2">Schedule</string>
+
+</resources>
